@@ -1,17 +1,11 @@
 # Bastien VDB
 React JS developer specializing in front with back knowledges. Worked as a consultant at Accenture for 7 years, collaborating with companies like L'Oréal and Safran. Freelancing for the past 2 years. Passionate about building modern, responsive interfaces. Available for collaborations.
 <p align="left">
-  <img alt="Accenture" width="128px" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Accenture.svg" style="margin-right: 50px;" /> <br><br>
-  <img alt="L'Oreal" width="128px" src="https://upload.wikimedia.org/wikipedia/commons/9/9d/L%27Or%C3%A9al_logo.svg" style="margin-right: 50px;" /> <br><br>
-  <img alt="Safran" width="128px" src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo_Safran.svg" style="margin-right: 50px;" /> <br><br>
-  <img alt="GDF Suez" width="128px" src="https://upload.wikimedia.org/wikipedia/it/a/a8/GDF_Suez.svg" style="margin-right: 50px;" />
+  ✨<img alt="Accenture" width="128px" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Accenture.svg" style="margin-right: 50px;" /> <br><br>
+  ✨<img alt="L'Oreal" width="128px" src="https://upload.wikimedia.org/wikipedia/commons/9/9d/L%27Or%C3%A9al_logo.svg" style="margin-right: 50px;" /> <br><br>
+  ✨<img alt="Safran" width="128px" src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo_Safran.svg" style="margin-right: 50px;" /> <br><br>
+  ✨<img alt="GDF Suez" width="128px" src="https://upload.wikimedia.org/wikipedia/it/a/a8/GDF_Suez.svg" style="margin-right: 50px;" />
 </p>
-
-
-![Accenture](https://upload.wikimedia.org/wikipedia/commons/c/cd/Accenture.svg | width=128)
-![L'Oreal](https://upload.wikimedia.org/wikipedia/commons/9/9d/L%27Or%C3%A9al_logo.svg | width=128)
-![Safran](https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo_Safran.svg | width=128)
-![GDF Suez](https://upload.wikimedia.org/wikipedia/fr/2/23/Gaz_de_France.svg | width=128)
 
 
 

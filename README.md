@@ -4,7 +4,7 @@ React JS developer specializing in front with back knowledges. Worked as a consu
   <img alt="Accenture" width="128px" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Accenture.svg" style="padding-right:40px;margin-right: 50px;" /> <br>
   <img alt="L'Oreal" width="128px" src="https://upload.wikimedia.org/wikipedia/commons/9/9d/L%27Or%C3%A9al_logo.svg" style="padding-right:40px;margin-right: 50px;" />
   <img alt="Safran" width="128px" src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo_Safran.svg" style="padding-right:40px;margin-right: 50px;" /> 
-  <img alt="GDF Suez" width="128px" src="[https://upload.wikimedia.org/wikipedia/fr/2/23/Gaz_de_France.svg](https://upload.wikimedia.org/wikipedia/it/a/a8/GDF_Suez.svg)" style="padding-right:40px;margin-right: 50px;" />
+  <img alt="GDF Suez" width="128px" src="https://upload.wikimedia.org/wikipedia/it/a/a8/GDF_Suez.svg" style="padding-right:40px;margin-right: 50px;" />
 </p>
 
 

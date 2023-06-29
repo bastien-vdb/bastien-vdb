@@ -1,3 +1,7 @@
+<!--
+**Bastien repo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
 # Bastien VDB
 React JS developer specializing in front with back knowledges. Worked as a consultant at Accenture for 7 years, collaborating with companies like L'Oréal and Safran. Freelancing for the past 2 years. Passionate about building modern, responsive interfaces. Available for collaborations.
 <p align="left">
@@ -9,9 +13,6 @@ React JS developer specializing in front with back knowledges. Worked as a consu
 
 
 
-<!--
-**Bastien repo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 ### Now:
 
 - 💬 Ask me about everything about Web developpment, I'll be more than happy to talk about it
@@ -36,7 +37,7 @@ React JS developer specializing in front with back knowledges. Worked as a consu
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
 
-[<img align="left" alt="AWS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" style="padding-right:11px;" />][youtubeplaylist]
+[<img align="left" alt="AWS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" style="padding-right:11px;" />]
 
 
 <br />

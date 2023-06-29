@@ -50,7 +50,3 @@ My Linkekin: https://www.linkedin.com/in/bastien-vermot-de-boisrolin-10051a72/
       Code-->Sleep;
       Sleep-->Code;
 ```
-
-<br /><br />
-[website]: https://bastiendeboisrolin.info/
-[Linkedin]: https://www.linkedin.com/in/bastien-vermot-de-boisrolin-10051a72/

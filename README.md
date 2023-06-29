@@ -2,7 +2,7 @@
 **Bastien repo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# Bastien VDB
+# Hi there !
 React JS developer specializing in front with back knowledges. Worked as a consultant at Accenture for 7 years, collaborating with companies like L'Oréal and Safran. Freelancing for the past 2 years. Passionate about building modern, responsive interfaces. Available for collaborations.
 
 ### I Worked for

@@ -1,6 +1,6 @@
 # Bastien VDB
 React JS developer specializing in front with back knowledges. Worked as a consultant at Accenture for 7 years, collaborating with companies like L'Oréal and Safran. Freelancing for the past 2 years. Passionate about building modern, responsive interfaces. Available for collaborations.
-<p align="center">
+<p align="left">
   <img alt="Accenture" width="128px" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Accenture.svg" style="padding-right:10px;" />
   <img alt="L'Oreal" width="128px" src="https://upload.wikimedia.org/wikipedia/commons/9/9d/L%27Or%C3%A9al_logo.svg" style="padding-right:10px;" />
   <img alt="Safran" width="128px" src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo_Safran.svg" style="padding-right:10px;" />

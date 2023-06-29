@@ -7,13 +7,13 @@ React JS developer specializing in front with back knowledges. Worked as a consu
 
 ### I Worked for
 <p align="left">
-  ✨<img alt="Accenture" width="256px" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Accenture.svg" style="margin-right: 50px;" /> # for 7years <br><br>
+  ✨<img alt="Accenture" width="256px" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Accenture.svg" style="margin-right: 50px;" /> <br><br>
   ✨<img alt="L'Oreal" width="128px" src="https://upload.wikimedia.org/wikipedia/commons/9/9d/L%27Or%C3%A9al_logo.svg" style="margin-right: 50px;" /> <br><br>
   ✨<img alt="Safran" width="128px" src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo_Safran.svg" style="margin-right: 50px;" /> <br><br>
   ✨<img alt="GDF Suez" width="128px" src="https://upload.wikimedia.org/wikipedia/it/a/a8/GDF_Suez.svg" style="margin-right: 50px;" />
 </p>
 
-<br/><br/><br/><br/>
+<br/><br/><br/>
 
 ### Now:
 
@@ -23,11 +23,14 @@ React JS developer specializing in front with back knowledges. Worked as a consu
           
 - ⚡ Fun fact: I started to learn code quite young at 13 like Bill, and also in my car garage but ....
 
+<br/><br/><br/>
 
 ### Connect with me:
 My website: https://bastiendeboisrolin.info/
 &nbsp;&nbsp;
 My Linkekin: https://www.linkedin.com/in/bastien-vermot-de-boisrolin-10051a72/
+
+<br/><br/><br/>
 
 ### Languages and Tools:
 
@@ -39,8 +42,7 @@ My Linkekin: https://www.linkedin.com/in/bastien-vermot-de-boisrolin-10051a72/
 <img align="left" alt="Git" width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
 
-<br />
-<br />
+<br /><br /><br />
 
 ### My daily routine :
 
@@ -52,6 +54,6 @@ My Linkekin: https://www.linkedin.com/in/bastien-vermot-de-boisrolin-10051a72/
       Sleep-->Code;
 ```
 
-
+<br /><br />
 [website]: https://bastiendeboisrolin.info/
 [Linkedin]: https://www.linkedin.com/in/bastien-vermot-de-boisrolin-10051a72/

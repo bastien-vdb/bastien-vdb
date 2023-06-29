@@ -9,7 +9,7 @@ React JS developer specializing in front with back knowledges. Worked as a consu
 <!--
 **Bastien repo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Now:
+### Now:
 
 - 💬 Ask me about everything about Web developpment, I'll be more than happy to talk about it
 - 📫 How to reach me: @Email or ->Linkedin

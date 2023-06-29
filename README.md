@@ -7,6 +7,12 @@ React JS developer specializing in front with back knowledges. Worked as a consu
   <img alt="GDF Suez" width="128px" src="https://upload.wikimedia.org/wikipedia/fr/2/23/Gaz_de_France.svg" style="padding-right:40px;margin-right: 50px;" />
 </p>
 
+![Accenture](https://upload.wikimedia.org/wikipedia/commons/c/cd/Accenture.svg) <br>
+![L'Oreal](https://upload.wikimedia.org/wikipedia/commons/9/9d/L%27Or%C3%A9al_logo.svg) <br>
+![Safran](https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo_Safran.svg) <br>
+![GDF Suez](https://upload.wikimedia.org/wikipedia/fr/2/23/Gaz_de_France.svg)
+
+
 
 <!--
 **Bastien repo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

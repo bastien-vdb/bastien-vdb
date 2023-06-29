@@ -25,7 +25,7 @@ React JS developer specializing in front with back knowledges. Worked as a consu
 
 
 ### Connect with me:
-My website: https://bastiendeboisrolin.info/ <br/><br/>
+My website: https://bastiendeboisrolin.info/ <br>
 &nbsp;&nbsp;
 My Linkekin: https://www.linkedin.com/in/bastien-vermot-de-boisrolin-10051a72/
 

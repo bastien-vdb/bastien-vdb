@@ -19,8 +19,7 @@ React JS developer specializing in front with back knowledges. Worked as a consu
 
 - 💬 Ask me about everything about Web developpment, I'll be more than happy to talk about it
 - 📫 How to reach me: @Email or ->Linkedin
-  <img style="width:32px" href="httpslinkedin.com/in/bastien-vermot-de-boisrolin-10051a72/" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-          
+  <img style="width:32px" href="httpslinkedin.com/in/bastien-vermot-de-boisrolin-10051a72/" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />          
 - ⚡ Fun fact: I started to learn code quite young at 13 like Bill, and also in my car garage but ....
 
 <br/><br/>
@@ -32,7 +31,7 @@ My Linkekin: https://www.linkedin.com/in/bastien-vermot-de-boisrolin-10051a72/
 
 <br/><br/>
 
-### Languages and Tools:
+### Languages and Tools: <br/>
 
 <img align="left" alt="Tailwind CSS" width="128px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="NextJS" width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />
@@ -43,9 +42,6 @@ My Linkekin: https://www.linkedin.com/in/bastien-vermot-de-boisrolin-10051a72/
 
 <br/><br/>
 
-
-### My daily routine :
-<br/>
 
 ```mermaid
   graph TD;
